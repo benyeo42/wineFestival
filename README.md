@@ -19,4 +19,3 @@ In this project, you will use a table to layout the schedule for a fictional win
 * Wine Luncheon
 * Aguillar Family Wines
 * Wine & Cheese Tasting
-* Feel free to look back at the live site to compare.
